@@ -41,7 +41,7 @@ export function Header() {
             <button className="text-[#2c2c2c] hover:text-[#ff6b35]" aria-label="Search">
               <SearchIcon size={20} />
             </button>
-            <div className="flex space-x-3">
+            {/* <div className="flex space-x-3">
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-[#2c2c2c] hover:text-[#ff6b35]">
                 <LinkedinIcon size={18} />
               </a>
@@ -51,7 +51,7 @@ export function Header() {
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-[#2c2c2c] hover:text-[#ff6b35]">
                 <InstagramIcon size={18} />
               </a>
-            </div>
+            </div> */}
           </nav>
           {/* Mobile Menu Button */}
           <button className="md:hidden text-[#2c2c2c]" onClick={() => setIsMenuOpen(!isMenuOpen)} aria-label="Toggle menu">
@@ -77,7 +77,7 @@ export function Header() {
                 Contact
               </Link>
               <div className="pt-2 flex items-center justify-between">
-                <div className="flex space-x-4">
+                {/* <div className="flex space-x-4">
                   <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-[#2c2c2c] hover:text-[#ff6b35]">
                     <LinkedinIcon size={20} />
                   </a>
@@ -87,7 +87,7 @@ export function Header() {
                   <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-[#2c2c2c] hover:text-[#ff6b35]">
                     <InstagramIcon size={20} />
                   </a>
-                </div>
+                </div> */}
                 <button className="text-[#2c2c2c] hover:text-[#ff6b35]" aria-label="Search">
                   <SearchIcon size={20} />
                 </button>

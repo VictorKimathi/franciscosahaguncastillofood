@@ -14,7 +14,7 @@ export function Footer() {
               Food writer and trend specialist with 5+ years experience
               translating complex culinary concepts into engaging stories.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-300 hover:text-[#ff6b35]">
                 <LinkedinIcon size={20} />
               </a>
@@ -24,7 +24,7 @@ export function Footer() {
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-gray-300 hover:text-[#ff6b35]">
                 <InstagramIcon size={20} />
               </a>
-            </div>
+            </div> */}
           </div>
           {/* Navigation */}
           <div>
