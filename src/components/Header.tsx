@@ -35,6 +35,15 @@ export function Header() {
             <Link to="/services" className={`font-medium transition-colors ${isActive('/services')}`}>
               Services
             </Link>
+            <Link to="/resume" className={`font-medium transition-colors ${isActive('/resume')}`}>
+              Resume
+            </Link>
+            <Link to="/testimonials" className={`font-medium transition-colors ${isActive('/testimonials')}`}>
+              Testimonials
+            </Link>
+            <Link to="/faq" className={`font-medium transition-colors ${isActive('/faq')}`}>
+              FAQ
+            </Link>
             <Link to="/contact" className={`font-medium transition-colors ${isActive('/contact')}`}>
               Contact
             </Link>
@@ -72,6 +81,15 @@ export function Header() {
               </Link>
               <Link to="/services" className={`font-medium ${isActive('/services')}`} onClick={() => setIsMenuOpen(false)}>
                 Services
+              </Link>
+              <Link to="/resume" className={`font-medium ${isActive('/resume')}`} onClick={() => setIsMenuOpen(false)}>
+                Resume
+              </Link>
+              <Link to="/testimonials" className={`font-medium ${isActive('/testimonials')}`} onClick={() => setIsMenuOpen(false)}>
+                Testimonials
+              </Link>
+              <Link to="/faq" className={`font-medium ${isActive('/faq')}`} onClick={() => setIsMenuOpen(false)}>
+                FAQ
               </Link>
               <Link to="/contact" className={`font-medium ${isActive('/contact')}`} onClick={() => setIsMenuOpen(false)}>
                 Contact
