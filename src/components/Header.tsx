@@ -17,7 +17,7 @@ export function Header() {
             <div className="hidden md:flex ml-8 items-center text-sm">
               <span className="text-[#8fbc8f] flex items-center">
                 <span className="w-2 h-2 rounded-full bg-[#8fbc8f] mr-2"></span>
-                Based in Southern California
+                .
               </span>
             </div>
           </div>
@@ -94,7 +94,7 @@ export function Header() {
               </div>
               <div className="text-xs text-[#8fbc8f] flex items-center">
                 <span className="w-2 h-2 rounded-full bg-[#8fbc8f] mr-2"></span>
-                Based in Southern California
+                .
               </div>
             </div>
           </nav>}
