@@ -29,7 +29,7 @@ export function Portfolio() {
       id: 3,
       title: 'Why Professional Cooks Obsess Over Ingredient Order',
       excerpt: 'In restaurant kitchens, ingredients are added with intention...',
-      image: 'https://images.unsplash.com/photo-1545164767-6ea63cce1a31?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      image: 'pexels-emris-17086289.jpg',
       category: 'Cooking Techniques / Kitchen Sciences',
       readTime: '7 min',
       date: 'June 22, 2025',
