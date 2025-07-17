@@ -63,19 +63,19 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-center">
                 <MailIcon size={18} className="text-[#ff6b35] mr-3" />
-                <a href="mailto:francisco@example.com" className="text-gray-300 hover:text-[#ff6b35]">
-                  francisco@example.com
+                <a href="mailto:franciscojsahagun7@gmail.com" className="text-gray-300 hover:text-[#ff6b35]">
+                  franciscojsahagun7@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
                 <PhoneIcon size={18} className="text-[#ff6b35] mr-3" />
                 <a href="tel:+15551234567" className="text-gray-300 hover:text-[#ff6b35]">
-                  (555) 123-4567
+                  206-653-1064
                 </a>
               </li>
               <li className="flex items-center">
                 <MapPinIcon size={18} className="text-[#ff6b35] mr-3" />
-                <span className="text-gray-300">Hawaiian Gardens, CA</span>
+                <span className="text-gray-300">Hawaiian Gardens, CA 90716 </span>
               </li>
             </ul>
           </div>

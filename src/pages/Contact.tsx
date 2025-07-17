@@ -93,8 +93,8 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-500">Email</p>
-                      <a href="mailto:francisco@example.com" className="text-[#2c2c2c] hover:text-[#ff6b35]">
-                        francisco@example.com
+                      <a href="mailto:franciscojsahagun7@gmail.com" className="text-[#2c2c2c] hover:text-[#ff6b35]">
+                        franciscojsahagun7@gmail.com
                       </a>
                     </div>
                   </li>
@@ -105,7 +105,7 @@ export function Contact() {
                     <div>
                       <p className="text-sm text-gray-500">Phone</p>
                       <a href="tel:+15551234567" className="text-[#2c2c2c] hover:text-[#ff6b35]">
-                        (555) 123-4567
+                        206-653-1064
                       </a>
                     </div>
                   </li>
@@ -115,7 +115,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-500">Location</p>
-                      <p className="text-[#2c2c2c]">Hawaiian Gardens, CA</p>
+                      <p className="text-[#2c2c2c]">Hawaiian Gardens, CA 90716 </p>
                       <p className="text-sm text-gray-500">
                         Southern California service area
                       </p>

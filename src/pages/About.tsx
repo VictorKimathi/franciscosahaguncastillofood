@@ -33,7 +33,7 @@ export function About() {
                 <ul className="space-y-3">
                   <li className="flex items-start">
                     <CheckIcon size={18} className="text-[#ff6b35] mr-3 mt-1 flex-shrink-0" />
-                    <span>Based in Hawaiian Gardens, CA</span>
+                    <span>Based in Hawaiian Gardens, CA 90716 </span>
                   </li>
                   <li className="flex items-start">
                     <CheckIcon size={18} className="text-[#ff6b35] mr-3 mt-1 flex-shrink-0" />
