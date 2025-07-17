@@ -7,6 +7,7 @@ import { Portfolio } from './pages/Portfolio';
 import { Services } from './pages/Services';
 import { About } from './pages/About';
 import { Contact } from './pages/Contact';
+import Resume from './pages/Resume';
 export function App() {
   return <Router>
       <div className="flex flex-col min-h-screen bg-[#f8f5f0]">
@@ -18,6 +19,8 @@ export function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/resume" element={<Resume />} />
+
           </Routes>
         </main>
         <Footer />

@@ -38,9 +38,9 @@ export function Header() {
             <Link to="/contact" className={`font-medium transition-colors ${isActive('/contact')}`}>
               Contact
             </Link>
-            <button className="text-[#2c2c2c] hover:text-[#ff6b35]" aria-label="Search">
+            {/* <button className="text-[#2c2c2c] hover:text-[#ff6b35]" aria-label="Search">
               <SearchIcon size={20} />
-            </button>
+            </button> */}
             {/* <div className="flex space-x-3">
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-[#2c2c2c] hover:text-[#ff6b35]">
                 <LinkedinIcon size={18} />
