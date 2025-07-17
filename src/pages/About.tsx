@@ -25,7 +25,7 @@ export function About() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row gap-10 md:gap-16">
             <div className="md:w-2/5">
-              <img src="https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" alt="Francisco Sahagun Castillo" className="w-full h-auto rounded-lg shadow-lg" />
+              <img src="fracisco.jpg" alt="Francisco Sahagun Castillo" className="w-full h-auto rounded-lg shadow-lg" />
               <div className="mt-8 bg-white p-6 rounded-lg shadow-md">
                 <h3 className="text-xl font-bold mb-4 text-[#2c2c2c]">
                   Quick Facts
